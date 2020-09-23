@@ -1,3 +1,7 @@
+# Depression-Tweets-2019-to-2020
+Deep Tweet "Depression"
+#Use this to load Twitter json object into python
+#https://stackoverflow.com/questions/55929752/how-to-load-twitter-json-object-into-python
 
 dat=list()
 with open ('/depression_file.json', 'r') as f:
